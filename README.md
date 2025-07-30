@@ -25,7 +25,6 @@ This repository contains an advanced implementation of an Echo State Network (ES
 
 ## 🗂️ Project Structure
 
-'''
 enhanced_esn/
 │
 ├── model.py # Main MP-GESN model definition
@@ -34,7 +33,6 @@ enhanced_esn/
 ├── config.yaml # Centralized configuration file
 ├── requirements.txt # Dependencies
 └── README.md # You're here!
-'''
 
 ---
 
