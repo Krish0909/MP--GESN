@@ -11,6 +11,8 @@ This repository contains an advanced implementation of an Echo State Network (ES
 
 ---
 
+
+
 ## 🧠 Features
 
 - **Sub-Reservoir Decomposition**: Multiple smaller ESNs capture dynamics at varied time scales.
