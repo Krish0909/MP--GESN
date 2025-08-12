@@ -1,4 +1,4 @@
-# Enhanced Echo State Network V2 (MP-GESN)
+# Enhanced Echo State Network V2 (MP-GESN) for EcoG data
 
 > Multi-Perspective Graph Echo State Network with Attention and Learnable Projections
 
